@@ -25,7 +25,22 @@ Created as a practice project for Digital Skill Fair 39.0.
 4. Run on your terminal: node atm.js
 
 ## Screenshot CLI
-![screenshot](./screenshot.png)
+Menu
+![screenshot](./SS/Screenshot-menu.png)
+Register
+![screenshot](./SS/Screenshot-register.png)
+Login
+![screenshot](./SS/Screenshot-login.png)
+Deposit
+![screenshot](./SS/Screenshot-deposit.png)
+Withdraw
+![screenshot](./SS/Screenshot-withdraw.png)
+Transfer
+![screenshot](./SS/Screenshot-transfer.png)
+Check Balance
+![screenshot](./SS/Screenshot-check.png)
+Transaction History
+![screenshot](./SS/Screenshot-history.png)
 
 ## Diagram Database
 ![diagram](./SS/atm-erd.png)

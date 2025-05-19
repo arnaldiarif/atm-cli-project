@@ -23,3 +23,12 @@ Created as a practice project for Digital Skill Fair 39.0.
 2. Install dependency:
 3. Import data `atm.sql`
 4. Run: node atm.js
+
+## Screenshot CLI
+![screenshot](./screenshot.png)
+
+## Diagram Database
+![diagram](./diagram.png)
+
+## Credits
+- Arnaldi Arif

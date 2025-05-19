@@ -20,9 +20,9 @@ Created as a practice project for Digital Skill Fair 39.0.
 
 ##  How to Run
 1. Clone repository
-2. Install dependency:
+2. Install dependency on your terminal: npm install
 3. Import data `atm.sql`
-4. Run: node atm.js
+4. Run on your terminal: node atm.js
 
 ## Screenshot CLI
 ![screenshot](./screenshot.png)

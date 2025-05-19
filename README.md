@@ -28,7 +28,7 @@ Created as a practice project for Digital Skill Fair 39.0.
 ![screenshot](./screenshot.png)
 
 ## Diagram Database
-![diagram](./diagram.png)
+![diagram](./SS/atm-erd.png)
 
 ## Credits
 - Arnaldi Arif

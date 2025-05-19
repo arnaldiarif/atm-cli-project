@@ -1,5 +1,11 @@
 # ATM CLI Simulation
 
+[![Made with Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)](https://nodejs.org)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql)](https://www.mysql.com/)
+[![Commander.js](https://img.shields.io/badge/Commander.js-CLI-orange)](https://github.com/tj/commander.js)
+[![Inquirer](https://img.shields.io/badge/Inquirer.js-Prompt-yellow?logo=inquirer)](https://github.com/SBoudrias/Inquirer.js)
+[![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
+
 An Indonesian command-line based ATM simulation application built using Node.js and MySQL.
 Created as a practice project for Digital Skill Fair 39.0.
 

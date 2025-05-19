@@ -1,6 +1,6 @@
 # ATM CLI Simulation
 
-A command-line based ATM simulation application built using Node.js and MySQL.
+An Indonesian command-line based ATM simulation application built using Node.js and MySQL.
 Created as a practice project for Digital Skill Fair 39.0.
 
 ## Features

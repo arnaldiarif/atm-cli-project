@@ -24,8 +24,7 @@ Created as a practice project for Digital Skill Fair 39.0.
 3. Import data `atm.sql`
 4. Run on your terminal: node atm.js
 
-## Screenshot CLI
-Menu
+## Menu
 ![screenshot](./SS/Screenshot-menu.png)
 Register
 ![screenshot](./SS/Screenshot-register.png)

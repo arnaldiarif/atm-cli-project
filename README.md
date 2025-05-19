@@ -26,19 +26,26 @@ Created as a practice project for Digital Skill Fair 39.0.
 
 ## Menu
 ![screenshot](./SS/Screenshot-menu.png)
-Register
+
+## Register
 ![screenshot](./SS/Screenshot-register.png)
-Login
+
+## Login
 ![screenshot](./SS/Screenshot-login.png)
-Deposit
+
+## Deposit
 ![screenshot](./SS/Screenshot-deposit.png)
-Withdraw
+
+## Withdraw
 ![screenshot](./SS/Screenshot-withdraw.png)
-Transfer
+
+## Transfer
 ![screenshot](./SS/Screenshot-transfer.png)
-Check Balance
+
+## Check Balance
 ![screenshot](./SS/Screenshot-check.png)
-Transaction History
+
+## Transaction History
 ![screenshot](./SS/Screenshot-history.png)
 
 ## Diagram Database

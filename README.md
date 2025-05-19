@@ -1,25 +1,25 @@
 # ATM CLI Simulation
 
-Simulasi aplikasi mesin ATM berbasis CLI menggunakan Node.js dan MySQL.
-Dibuat untuk proyek latihan Digital Skill Fair 39.0.
+A command-line based ATM simulation application built using Node.js and MySQL.
+Created as a practice project for Digital Skill Fair 39.0.
 
-## Fitur
-- Register akun (nama, PIN)
-- Login akun
-- Cek saldo (`check-balance`)
-- Setor (`deposit`)
-- Tarik tunai (`withdraw`)
-- Transfer antar akun (`transfer`)
-- Lihat histori transaksi (`histori-transaksi`)
+## Features
+- Register Account (Name, PIN)
+- Login to account
+- Check balance (`check-balance`)
+- Deposit funds (`deposit`)
+- Withdraw cash (`withdraw`)
+- Transfer funds between accounts (`transfer`)
+- View transaction history (`histori-transaksi`)
 
-## Teknologi
+## Tools
 - Node.js + Commander.js
 - MySQL (via MySQL2)
 - Inquirer CLI
-- MySQL Workbench (untuk desain database)
+- MySQL Workbench (for database design)
 
-##  Cara Menjalankan
-1. Clone repo
+##  How to Run
+1. Clone repository
 2. Install dependency:
 3. Import data `atm.sql`
 4. Run: node atm.js
